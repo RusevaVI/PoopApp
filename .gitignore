@@ -28,6 +28,3 @@ DerivedData
 .DS_Store
 *.swp
 *-debug.log
-xcuserdata/
-DerivedData/
-*.xcuserstate
