@@ -14,10 +14,8 @@
 
 ```swift
 @State private var dailyGoal: Int?
-При запуске программы,нам отображается первое View:
-```
-![First View](images/FirstView.png)
 
+```
 Чтобы при вводе числа данные передавались на следующее View
 
 ## Второй экран
